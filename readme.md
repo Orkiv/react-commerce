@@ -2,6 +2,7 @@
 
 React{commerce} is a set of React components built to speed up your ecommerce website development. It relies on [Epic commerce](https://orkiv.com/epic-commerce) to function as your backend. Learn more about Epic commerce javascript functions [here](https://github.com/Orkiv/Inventory-js)
 
+![enter image description here](https://github.com/Orkiv/react-commerce/raw/master/react-commerce.png)
 
 # Navigation
 
