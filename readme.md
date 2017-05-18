@@ -36,7 +36,7 @@ React{commerce} is a set of React components built to speed up your ecommerce we
 
 # Testing 
 
-Please launch a localhost server and open `react-test.hmtl`.
+Please launch a localhost server and open `react-test.html`.
 
 
 # Install
