@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>Epic commerce react js components</title>
+
+     <!-- Bootstrap core CSS -->
+    <link href="http://v4-alpha.getbootstrap.com/dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="http://v4-alpha.getbootstrap.com/examples/album/album.css" rel="stylesheet">
+
+    <script src="https://unpkg.com/react@latest/dist/react.js"></script>
+    <script src="https://unpkg.com/react-dom@latest/dist/react-dom.js"></script>
+    <script src="https://unpkg.com/babel-standalone@6.15.0/babel.min.js"></script>
+
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+    <script>window.jQuery || document.write('<script src="http://v4-alpha.getbootstrap.com/assets/js/vendor/jquery.min.js"><\/script>')</script>
+    <script src="http://v4-alpha.getbootstrap.com/assets/js/vendor/holder.min.js"></script>
+  
+    <script src="http://v4-alpha.getbootstrap.com/dist/js/bootstrap.min.js"></script>
+
+    <script type="text/javascript" src="inventory.js"></script>
+    <script type="text/javascript">
+
+     new Inventory("54ac00acc9fe6b2848791586","f52fbf60f77701d709322cc1d1a48d40f75d65d3330b5c9a58fa070c9509a2c237218d721a6fca138e6740c0bc43e5737503c074170a74703a2fc7a2ed0d5533-3962278581494600314",true, true);
+  //  $inventory.SetAlert( function(text){alert(text)});
+  //  $inventory.CreateSocialSupport(".extract",[".navbar-collapse .container-fluid"]);
+   // $inventory.ImageGrid("55d4e00170f817507bdea273", ".item-tg", [] );
+    </script>
+  </head>
+  <body>
+    <style type="text/css">
+    .max-three {
+      max-width: 320px;
+    }
+    </style>
+    <div class="container">
+     <p class="text-muted"><b>Epic commerce</b> reactjs components</p>
+   </div>
+    <div id="root" class="container"></div>
+   
+
+    <script type="text/babel" src="react-commerce.dev.js"></script>
+    <script type="text/babel">
+
+    
+
+         
+
+            
+
+
+
+      ReactDOM.render(
+        <div >
+        <h4>** Updating various CTAs</h4>
+        <ChangeCTA  cta-checkout="GO " />
+        <h2>Session management</h2>
+        <p>Try signing up below: </p>
+        <User />
+        <h3>Account</h3>
+        <Account />
+        <Currency />
+         <h3>Wishlist</h3>
+        <ViewWishlist />
+        <h3>Checkout Cart</h3>
+        <Checkout />
+        <h3>Logout</h3>
+        <Logout text="Signout"/>
+        <h2>Modular buttons</h2>
+        <h3>Cart</h3>
+        <Cart id="55d4e00170f817507bdea273" />
+        <h3>Subscribe</h3>
+        <Subscribe id="5612722970f817ac7bd7d5a3" />
+        <h3>Buy</h3>
+        <Buy id="55d4e00170f817507bdea273" />
+        <h3>Wishlist</h3>
+        <Wishlist id="55d4e00170f817507bdea273" />
+        <h3>ComboCart</h3>
+        <ComboCart id="5612722970f817ac7bd7d5a3" />
+        <h3>ComboBuy</h3>
+        <ComboBuy id="5612722970f817ac7bd7d5a3" />
+        <h3>One click</h3>
+        <OneClick />
+        <h2>Modular boxes</h2>
+        <h3>Display item </h3>
+        <ItemFull id="55d4e00170f817507bdea273" /> 
+        <h3>Display item images</h3>
+        <ItemImages id="55d4e00170f817507bdea273" />
+        </div>,
+        document.getElementById('root')
+      );
+
+    </script>
+   
+
+  </body>
+</html>

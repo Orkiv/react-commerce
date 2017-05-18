@@ -1,0 +1,38 @@
+{
+  "name": "react-commerce",
+  "version": "1.0.0",
+  "description": "React ecommerce framework.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Orkiv/react-commerce.git"
+  },
+  "keywords": [
+    "ai",
+    "javascript",
+    "ui",
+    "ecommerce",
+    "html5",
+    "react",
+    "babel"
+  ],
+  "author": "Orkiv",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Orkiv/react-commerce/issues"
+  },
+  "dependencies": {
+    "jquery": "",
+    "epic-commerce": ""
+  },
+  "homepage": "https://github.com/Orkiv/react-commerce#readme",
+  "devDependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-preset-env": "^1.4.0",
+    "babel-preset-es2016": "^6.24.1",
+    "babel-preset-react": "^6.24.1"
+  }
+}
