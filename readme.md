@@ -205,7 +205,7 @@ To set variations, use the following format `var-{field-name}="value"`
 
 # CSS
 
-Here are a set of css selectors to edit React{commerce} elements. Please make sure to set your new styles to `!important`.
+Here is a set of css selectors to edit React{commerce} elements. Please make sure to set your new styles to `!important`.
 
 React{commerce} Modals : 
 			
