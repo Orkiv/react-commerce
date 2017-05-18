@@ -1,6 +1,6 @@
 # React{commerce}
 
-React{commerce} is a set of React components built to speed up your ecommerce website development. It relies on [Epic commerce](https://orkiv.com/epic-commerce) to function as your backend. Learn more about Epic commerce javascript functions [here](/Orkiv/Inventory-js)
+React{commerce} is a set of React components built to speed up your ecommerce website development. It relies on [Epic commerce](https://orkiv.com/epic-commerce) to function as your backend. Learn more about Epic commerce javascript functions [here](https://github.com/Orkiv/Inventory-js)
 
 
 # Navigation
@@ -31,7 +31,7 @@ React{commerce} is a set of React components built to speed up your ecommerce we
 
 - Epic commerce account
 - jQuery
-- [Inventory-js](/Orkiv/Inventory-js)
+- [Inventory-js](https://github.com/Orkiv/Inventory-js)
 - ReactJS
 
 # Testing 
