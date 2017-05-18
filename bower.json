@@ -1,0 +1,26 @@
+{
+  "name": "react-commerce",
+  "description": "React ecommerce framework.",
+  "main": "index.js",
+  "authors": [
+    "Orkiv"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "ai",
+    "javascript",
+    "ui",
+    "ecommerce",
+    "html5",
+    "react",
+    "babel"
+  ],
+  "homepage": "https://orkiv.com/epic-commerce",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
