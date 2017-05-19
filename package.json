@@ -1,7 +1,7 @@
 {
   "name": "react-commerce",
   "version": "1.0.5",
-  "description": "ReactJS ecommerce components.",
+  "description": "reactjs ecommerce components.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

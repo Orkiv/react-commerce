@@ -102,7 +102,7 @@ Display button which will open a user account management modal.
 
 Display button which will open a checkout modal dialog.
 
-### Checkout ShowCart
+### ShowCart
 
 Display button which will open a direct checkout modal dialog.
 
@@ -149,6 +149,7 @@ Display button which will open a modal with a subscription prompt.
 #### Properties
 
  - string id : service id.
+ - string text : Button CTA.
 
 ### Buy
 
@@ -159,7 +160,7 @@ Open purchase modal dialog.
 To set variations, use the following format `var-{field-name}="value"`
 
 - string id : commerce item id.
-
+ - string text : Button CTA.
 
 ### Wishlist
 
